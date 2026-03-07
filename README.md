@@ -1,6 +1,7 @@
 👋 Hi, I’m Zahir.
 
 I build products that make invisible things visible. From communication habits to complex data and systems.
+https://madebyzahir.com/
 
 I’m interested in:
 - Human-centered product design
